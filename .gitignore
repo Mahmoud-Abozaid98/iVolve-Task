@@ -5,12 +5,12 @@
 # Maven
 **/target/
 
-# macOS
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
 .DS_Store
 
-# VS Code
-.vscode/
 
-# IntelliJ
-.idea/
-*.iml
